@@ -1,1 +1,0 @@
-All of the libraries needed to run these applications can be downloaded from the SpringSource website:  http://www.springsource.org/download
